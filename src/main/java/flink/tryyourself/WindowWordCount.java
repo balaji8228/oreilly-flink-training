@@ -28,6 +28,9 @@ public class WindowWordCount {
 //        float double you read, watch, write, listen, her she it short listen, her she it short
 //        long int am his play you read float double you read
 
+        // Start Websocket:
+        // $ nc -lk 9999
+
         // API References:
         // https://ci.apache.org/projects/flink/flink-docs-release-1.10/dev/stream/operators/
         // https://ci.apache.org/projects/flink/flink-docs-release-1.10/dev/stream/operators/windows.html
